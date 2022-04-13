@@ -1,5 +1,5 @@
 # RoadPay
-### University project - 7th semester 2021.
+### University project - 6th semester 2021.
 
 # System Requirements
 ● Eclipse IDE<br>
